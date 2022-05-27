@@ -4,10 +4,10 @@
 Exploratory Data Analysis is a standard process in the early stages of digital biomarker development. EDA allows us to explore relationships between variables in the data, examine trends, analyze missingness of data, and begin the process of understanding the link between the data and the physiological state we are studying.
 
 **Input:**
-Your data
+.csv file with entire dataset. 
 
 **Output:**
-
+Figures for EDA (after filtering all the NULL data)
 
 **Organization:**
 
