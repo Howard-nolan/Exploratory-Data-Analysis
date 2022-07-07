@@ -9,7 +9,15 @@ Exploratory Data Analysis is a standard process in the early stages of digital b
 **Output:**
 Figures for EDA (after filtering all the NULL data)
 
-**Organization:**
+**Functions:**
+This repository currently contains the following functions:
+makehist: Plot histograms of all variables in data
+makebox: Plot boxplot of all variables in data
+makeleaf: Plot leafplot of all variables in data
+makebubble: Plot bubble chart of all variables in data
+makerun: Plot run chart of all variables in data
+makemultivariate: Plot multivariate chart of all variables in data
+makescatter: Plot scatterplot of all variables in data
 
 
 **Publications:**
