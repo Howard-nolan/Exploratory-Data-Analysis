@@ -34,3 +34,4 @@ This repository currently contains the following functions.
 ***
 
 **Sources:**
+we use STEP Data (link: https://physionet.org/content/bigideaslab-step-hr-smartwatch/1.0/) for the EDA analysis
